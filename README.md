@@ -1,1 +1,1 @@
-Shatranj
+This is just a practice project in which the game of chess is implemented. This project is implemented in windows form application. You are able to play online and chat with other players. Data is stored in sqllite, you can also save the game.
